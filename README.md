@@ -10,7 +10,7 @@ PyTorch 0.4.1
 
 # Dynamic Routing Between Capsules
 
-[Hinton G E, Sabour S, Frosst N. Matrix capsules with EM routing[J]. 2018.](http://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)    
+[Sabour S, Frosst N, Hinton G E. Dynamic routing between capsules[C]//Advances in neural information processing systems. 2017: 3856-3866.](https://openreview.net/pdf?id=HJWLfGWRb)   
 With the best hyperparameters on MNIST dataset in the paper, training will takes 5 hours with two GTX 1070.
 
 |  | Best Test Accuracy |
@@ -25,7 +25,7 @@ With the best hyperparameters on MNIST dataset in the paper, training will takes
 
 # Matrix capsules with EM routing
 
-[Sabour S, Frosst N, Hinton G E. Dynamic routing between capsules[C]//Advances in neural information processing systems. 2017: 3856-3866.](https://openreview.net/pdf?id=HJWLfGWRb)       
+[Hinton G E, Sabour S, Frosst N. Matrix capsules with EM routing[C]//ICLR 2018.](http://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)          
 With the best hyperparameters on smallNORB dataset in the paper, training will takes 40 hours with eight Tesla P40.
 
 |  | Best Test Accuracy | Training Speed |
