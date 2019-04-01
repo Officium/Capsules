@@ -29,5 +29,5 @@ With the best hyperparameters on smallNORB dataset in the paper, training will t
 |  | Best Test Accuracy | Training Speed |
 | - | -------- | ------- |
 | Paper | 98.2% | - |
-| This Implementation |  | < 1s/iter with 8 Tesla P40 |
+| This Implementation | 90.9% | < 1s/iter with 8 Tesla P40 |
 | [Implementation by @www0wwwjs1](https://github.com/www0wwwjs1/Matrix-Capsules-EM-Tensorflow) | 91.8% | 25s/iter with 1 Tesla P40 |
